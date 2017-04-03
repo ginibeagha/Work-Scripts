@@ -1,0 +1,2 @@
+ $com=New-Object -ComObject COMAdmin.COMAdminCatalog
+$com.ShutdownApplication("SDL Web Content Manager") 
